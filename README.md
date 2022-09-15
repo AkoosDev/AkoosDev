@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AkoosDev
+- 👋 Hi, I’m Akos
 - 👀 I’m interested in Javascript, Html, and css 
 - 🌱 I’m currently learning Javascript  
 - 📫 How to reach me Send me an email or contact me on my discord
